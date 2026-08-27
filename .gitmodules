@@ -1,0 +1,9 @@
+[submodule "config-server"]
+	path = config-server
+	url = https://github.com/AgasthiFdo/ECA_Config.git
+[submodule "api-gateway"]
+	path = api-gateway
+	url = https://github.com/AgasthiFdo/ECA_Apigateway.git
+[submodule "service-registry"]
+	path = service-registry
+	url = https://github.com/AgasthiFdo/ECP_Service_registry.git
